@@ -1,0 +1,53 @@
+[33mcommit 84288da1f240a8a977034b419b3cfa628e87d4e9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: lecter <646737375@qq.com>
+Date:   Wed May 15 21:46:45 2019 +0800
+
+    add text.txt
+
+[33mcommit 594caab17ffc44d526d355f3a3a96f5d8b87a336[m
+Author: lecter <646737375@qq.com>
+Date:   Wed May 15 21:45:39 2019 +0800
+
+    remove text.txt
+
+[33mcommit adb35a1e67d8305334cdb0f14d2ec3bd0b144604[m
+Author: lecter <646737375@qq.com>
+Date:   Wed May 15 21:44:31 2019 +0800
+
+    add text.txt
+
+[33mcommit af00ac0343b79647062adf44d4feba5791b158c8[m
+Author: lecter <646737375@qq.com>
+Date:   Wed May 15 15:49:48 2019 +0800
+
+    second commit
+
+[33mcommit c3de330b953e02469895999babaf381c1f7b6a81[m
+Author: lecter <646737375@qq.com>
+Date:   Wed May 15 15:46:42 2019 +0800
+
+    git tracks changes
+
+[33mcommit 11926e3fae9ca683b486b9151849e991d022189e[m
+Author: lecter <646737375@qq.com>
+Date:   Wed May 15 15:44:38 2019 +0800
+
+    understand how stage works
+
+[33mcommit dd762a2faf83027a0f04e3f0044314b03aebaedf[m
+Author: lecter <646737375@qq.com>
+Date:   Wed May 15 15:32:53 2019 +0800
+
+    append GPL
+
+[33mcommit 2ffc449c559e8b2d8cd6cf4efc5067da4da02cd7[m
+Author: lecter <646737375@qq.com>
+Date:   Wed May 15 15:31:47 2019 +0800
+
+    add distributed
+
+[33mcommit bcd3e2cfd2043792da940b14a19fe3376198f859[m
+Author: lecter <646737375@qq.com>
+Date:   Wed May 15 15:29:22 2019 +0800
+
+    wrote a readme file
